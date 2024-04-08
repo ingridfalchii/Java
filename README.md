@@ -9,7 +9,8 @@ Operações como:
 * consultar saldo
 * sacar
 * depositar
-* transferir.
+* transferir
+  
 Utilização de classes para representar conta bancária, cliente e caixa eletrônico.
 Implementação de menus para interação com o usuário.
 Utilização de coleções (ArrayList) para gerenciar múltiplas contas.
