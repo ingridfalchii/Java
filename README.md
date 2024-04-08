@@ -1,18 +1,23 @@
-## Getting Started
+## Sistema de Conta Bancária em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto implementa um sistema de conta bancária em Java, com funcionalidades como criação de conta, consulta de saldo, saque, depósito, transferência entre contas e filtragem de contas por nome de cliente.
 
-## Folder Structure
+## Funcionalidades Implementadas
 
-The workspace contains two folders by default, where:
+Representação de uma conta bancária com saldo, limite e titular.
+Operações como:
+* consultar saldo
+* sacar
+* depositar
+* transferir.
+Utilização de classes para representar conta bancária, cliente e caixa eletrônico.
+Implementação de menus para interação com o usuário.
+Utilização de coleções (ArrayList) para gerenciar múltiplas contas.
+Tratamento de exceções para garantir a integridade das operações.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Autor
+Ingrid de Falchi
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Projeto
+Matéria: Programação Orientada a Objetos
+Universidade Federal de Lavras
